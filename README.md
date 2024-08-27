@@ -1,4 +1,4 @@
-The todoList website is a user-friendly and intuitive application designed to help users manage their tasks efficiently. Built using React for the front-end, this web app allows users to add, view, update, and delete tasks with ease. The design is responsive, ensuring a seamless experience.
+The todoList website is a user-friendly and intuitive application designed to help users manage their tasks efficiently. Built using React for the front-end, this web app allows users to add, view, update, and delete tasks with ease. The design is responsive, ensuring a seamless experience. The Database type used is Local Storage.
 
 website link - todolist-komalwebsite.netlify.app/
 
